@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "HONEYCOMB",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-03-29T02:49:56.676300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/01_Honeycomb_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honeycomb - Live",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/02_Honeycomb_-_Live_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Helium",
+      "has_synced": true,
+      "path": "select/03_Honeycomb_Helium.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like a Honeycomb",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/04_Like_a_Honeycomb_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My! My! Honeycomb",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/05_My!_My!_Honeycomb_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honeycomb Child",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/06_Honeycomb_Child_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My! My! Honeycomb",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/07_My!_My!_Honeycomb_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Ricky Nelson",
+      "has_synced": true,
+      "path": "select/08_Honeycomb_Ricky_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Jimmie Rodgers",
+      "has_synced": false,
+      "path": "select/09_Honeycomb_Jimmie_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My! My! Honeycomb",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/10_My!_My!_Honeycomb_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My! My! Honeycomb (bonus)*",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/11_My!_My!_Honeycomb_(bonus)_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Ricky Nelson",
+      "has_synced": true,
+      "path": "select/12_Honeycomb_Ricky_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Jimmie Rodgers",
+      "has_synced": true,
+      "path": "select/13_Honeycomb_Jimmie_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honeycomb",
+      "artist": "Tim Atlas",
+      "has_synced": true,
+      "path": "select/14_Honeycomb_Tim_Atlas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HONEYCOMB",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_HONEYCOMB_Ayumu_Imazu.txt"
+    }
+  ]
+}
